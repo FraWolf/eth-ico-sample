@@ -1,0 +1,31 @@
+{
+    "name": "eth-ico-sample",
+    "version": "1.0.0",
+    "description": "A Sample Code for a Real World ICO, made with Ethereum Blockchain.",
+    "main": "app.js",
+    "scripts": {
+      "truffle:compile": "truffle compile",
+      "truffle:migrate": "truffle migrate",
+      "truffle:console": "truffle console",
+      "truffle:test": "truffle test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/FraWolf/eth-ico-sample.git"
+    },
+    "keywords": [
+      "Ethereum",
+      "Ether",
+      "ICO",
+      "DApp",
+      "SmartContracts",
+      "Cryptocurrency"
+    ],
+    "author": "FraWolf <frawolf@outlook.it> (https://frawolf.it)",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/FraWolf/eth-ico-sample/issues"
+    },
+    "homepage": "https://github.com/FraWolf/eth-ico-sample#readme"
+  }
+  
